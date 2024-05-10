@@ -16,8 +16,6 @@ I'm Tanishq Chauhan, a passionate developer and technology enthusiast. Welcome t
 
 
 #### 📊 GitHub Analytics
-
-[![stats](https://github-readme-stats.vercel.app/api?username=TanishqChauhan8&theme=gotham&show_icons=true&border_color=2e3440)](https://github.com/TanishqChauhan8)
 [![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TanishqChauhan8&layout=compact&theme=gotham&border_color=2e3440&card_width=250)](https://github.com/TanishqChauhan8)
 
 
