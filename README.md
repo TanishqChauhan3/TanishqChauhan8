@@ -9,7 +9,6 @@ I'm Tanishq Chauhan, a passionate developer and technology enthusiast. Welcome t
 [![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)](#)
 [![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)](#)
 [![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)](#)
-[![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)](#)
 [![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-FF1493.svg?style=flat&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
 [![VsCode](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
